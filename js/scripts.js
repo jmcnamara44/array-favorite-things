@@ -33,9 +33,9 @@ $(document).ready(function() {
     $(".hobby").text(hobbyInput);
     $(".food").text(foodInput);
     $(".music").text(musicInput);
-$(".reverseArray1").text(array1.reverse());
-$(".reverseArray2").text(array1.pop());
-alert(array1);
+    $(".reverseArray1").text(array1.reverse());
+    $(".reverseArray2").text(array1.pop());
+    alert(array1);
 
   });
 
